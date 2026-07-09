@@ -1,4 +1,4 @@
-name: Deploy AskMyDocs to Azure
+name: Deploy Smart RAG to Azure
 
 on:
   push:
